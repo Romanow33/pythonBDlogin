@@ -12,7 +12,7 @@ _y un visor de archivos sql, como puede ser **DB Browser for SQLite**  para pode
 
 ### Usando 🔧
 
-_1. Forkea y clona el repositorio **git clone https://github.com/Romanow33/pythonBDlogin.git**_
+_1. Forkea y clona el repositorio **git clone https://github.com/Romanow33/pythonDBcreator.git**_
 
 _2. Si tienes la ultima version de Python instalada como mencione anteriormente, solo debes hacer doble click_
 _sobre el archivo y una consola de Python lo ejecutara._
